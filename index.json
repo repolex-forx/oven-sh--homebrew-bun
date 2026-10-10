@@ -1,0 +1,11 @@
+{
+  "org": "oven-sh",
+  "repo": "homebrew-bun",
+  "versions": [
+    {
+      "commit": "f698c7817c8bf40904fa009be1ca362a0d937ed4",
+      "tag": "",
+      "parsed_at": "2026-10-10T07:46:19.962727+00:00"
+    }
+  ]
+}
